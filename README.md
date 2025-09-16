@@ -1,4 +1,4 @@
-# EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+# EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -55,7 +55,13 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## Output  :
- 
+OFF STATE
+![WhatsApp Image 2025-09-16 at 22 10 33_fddd9af4](https://github.com/user-attachments/assets/ad93c19a-5db7-4821-ad98-ead5d7888ae8)
+
+ON STATE 
+![WhatsApp Image 2025-09-16 at 22 11 41_fa286795](https://github.com/user-attachments/assets/46299f3f-8da0-4397-a21c-2279c2a0fd0f)
+
+
 ## layout of the circuit 
  
  
